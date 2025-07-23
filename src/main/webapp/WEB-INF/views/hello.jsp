@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2> Welcome to spring mvc</h2>
+<h2> Welcome to spring mvc made by pragunjay</h2>
 <h3>Version----2.0</h3>
 </body>
 </html>
